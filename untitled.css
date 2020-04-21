@@ -1,0 +1,62 @@
+body{
+	width: 1200px;
+	margin: 0 auto;
+}
+.one{
+	position: relative;
+	width: 1200px;
+	height: 300px;
+	margin-bottom: 50px;
+	background-color: orange;
+}
+.secondone{
+	float: right;
+	width: 570px;
+	height: 260px;
+	margin: 20px;
+	background-color: yellow;
+}
+.two{
+	width: 1200px;
+	height: 550px;
+	margin-bottom: 50px;
+	border: 1px solid black;
+}
+.first{
+	display: inline-block;
+	width: 590px;
+	height: 550px;
+	background-color: blue;
+}
+.firsttwo{
+	display: inline-block;
+	width: 590px;
+	height: 550px;
+}
+.secondtwo{
+	display: inline-block;
+	width: 590px;
+	height: 150px;
+	margin-left: 16px;
+	margin-bottom: 46px;
+	background-color: purple;
+}
+.secondtwoLast{
+	display: inline-block;
+	width: 590px;
+	height: 150px;
+	margin-left: 16px;
+	background-color: purple;
+}
+.three{
+	width: 600px;
+	margin: 0 auto;
+	height: 400px;
+	background-color: green;
+}
+.center{
+	width: 50%;
+	height: auto;
+	margin: auto;
+}
+
